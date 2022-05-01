@@ -13,4 +13,4 @@ __date__ = "2024-11-15"
 __credits__ = "(c) Laurent LAPORTE"
 
 from deprecated.classic import deprecated
-from deprecated.deprecated_params import deprecated_params
+from deprecated.params import deprecated_params
